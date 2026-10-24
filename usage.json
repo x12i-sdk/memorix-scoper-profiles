@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-scoper-profiles",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-scoper-profiles",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-scoper-profiles",
+  "sourceRepository": "https://github.com/x12i/scoper-monorepo",
+  "sourceCommit": "1fbab09cdcf68c47f68594bd91b2145a31128f77",
+  "sourcePackageDirectory": "packages/profiles",
+  "example": {
+    "title": "Select a bundled profile and inspect its permitted capabilities",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:44.207399+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "c975648dd6cfe4b8bbe5a24c5b61975e3859fe77ee1424cd2f14ea38d66742f5",
+    "manifestSha256": "9253a33a817799575fb4c710d4655e8acf46baa893565c08368571f9a9a02166"
+  },
+  "validationFiles": {
+    "src/index.mjs": "c975648dd6cfe4b8bbe5a24c5b61975e3859fe77ee1424cd2f14ea38d66742f5"
+  }
+}
